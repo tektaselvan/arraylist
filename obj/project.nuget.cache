@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sQBrMNN6egyDMczJYSNvQQBs4qZ7DTGinCgfxWITDy8BI2uSkZIfqIEnVc49IRABhSLFf+WAscJSA0Pzi86REQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tekta\\OneDrive\\Masaüstü\\Pratikler\\arraylist\\arraylist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
